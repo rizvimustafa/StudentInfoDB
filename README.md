@@ -12,5 +12,5 @@ Object-oriented C.R.U.D project using MySql database
 
 - To update student information or to delete a student, click search. You will be prompted to enter Student's ID. Entering the ID will populate the 
   Name, Course, Fee textfields corresponding to the entered student ID.
-  *Then click Delete to remove the student from the database.
-  *Or make necessary changes to the textfields, and click Update to update student record.
+  - Then click Delete to remove the student from the database.
+  - Or make necessary changes to the textfields, and click Update to update student record.
